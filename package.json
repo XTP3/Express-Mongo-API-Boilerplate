@@ -1,0 +1,25 @@
+{
+  "name": "api-boilerplate",
+  "version": "1.0.0",
+  "description": "Express/Mongo REST API Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XTP3/Express-Mongo-API-Boilerplate.git"
+  },
+  "author": "XTP3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XTP3/Express-Mongo-API-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/XTP3/Express-Mongo-API-Boilerplate#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.3",
+    "mongoose": "^6.0.11"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "HTTP_PORT": 999,
+    "HTTPS_PORT": 9999,
+    "PRIVATE_KEY_FILEPATH": "/certs/server.key",
+    "CERTIFICATE_FILEPATH": "/certs/server.cert",
+    "CA_CERT_FILEPATH": "",
+    "PEM_PASSPHRASE": "onlyForPemCerts",
+    "DATABASE_URL": "mongodb://localhost/database"
+}
